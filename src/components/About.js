@@ -25,7 +25,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./coding-react.gif"
+            src="./gif-final.gif"
           />
         </div>
       </div>
