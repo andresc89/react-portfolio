@@ -56,5 +56,5 @@ export const skills = [
   "Ruby on Rails",
   "HTML/CSS/SCSS",
   "Git/Github",
-  "<LearningNewSkills/> "
+  "OOP / MVC"
 ];
