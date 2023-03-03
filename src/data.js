@@ -14,6 +14,22 @@ export const projects = [
       "This app was developed with Ruby on Rails, ES6 Javascript and StimulusJS. It was a 2 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
     image: "./mypark2.gif",
     link: "https://my-park-zda.herokuapp.com/",
+  },
+  {
+    title: "My Pet",
+    subtitle: "A 1 week project mock app 'airbnb style' take to rent pets ",
+    description:
+      "This app was developed with Ruby on Rails, HTML, Bootstrap and SCSS. It was a 1 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
+    image: "./mp1.png",
+    link: "https://mypet-app.herokuapp.com/",
+  },
+  {
+    title: "My Pet",
+    subtitle: "A 1 week project mock app 'airbnb style' take to rent pets ",
+    description:
+      "This app was developed with Ruby on Rails, HTML, Bootstrap and SCSS. It was a 1 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
+    image: "./mp2.png",
+    link: "https://mypet-app.herokuapp.com/",
   }
 ];
 
@@ -40,5 +56,5 @@ export const skills = [
   "Ruby on Rails",
   "HTML/CSS/SCSS",
   "Git/Github",
-  "<render LearnNewSkill /> "
+  "<LearnReact /> "
 ];
