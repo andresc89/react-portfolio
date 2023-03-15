@@ -5,7 +5,7 @@ export const projects = [
     description:
       "This app was developed with Ruby on Rails, ES6 Javascript and StimulusJS. It was a 2 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
     image: "./mypark1.gif",
-    link: "https://my-park-zda.herokuapp.com/",
+    link: "https://mypark-app.herokuapp.com/",
   },
   {
     title: "My Park",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "This app was developed with Ruby on Rails, ES6 Javascript and StimulusJS. It was a 2 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
     image: "./mypark2.gif",
-    link: "https://my-park-zda.herokuapp.com/",
+    link: "https://mypark-app.herokuapp.com/",
   },
   {
     title: "My Pet",
