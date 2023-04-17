@@ -30,24 +30,26 @@ export const projects = [
       "This app was developed with Ruby on Rails, HTML, Bootstrap and SCSS. It was a 1 week project with two colleagues from LeWagon. Huge shoutout to them, you know who you are!",
     image: "./mp2.png",
     link: "https://mypet-app.herokuapp.com/",
+  },
+  {
+    title: "Teacatffé",
+    subtitle: "A landing page for a cat tea house that offers remote work booths, cozy atmosphere and stress free environment ",
+    description:
+      "This app was built with AngularJS with the goal of learning the framework it is a fictitious website.",
+    image: "./tea3.png",
+    link: "https://teacatffe.netlify.app/",
+  },
+  {
+    title: "Teacatffé",
+    subtitle: "A landing page for a cat tea house that offers remote work booths, cozy atmosphere and stress free environment ",
+    description:
+      "This app was built with AngularJS with the goal of learning the framework it is a fictitious website.",
+    image: "./tea2.png",
+    link: "https://teacatffe.netlify.app/",
   }
 ];
 
 export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
 ];
 
 export const skills = [
