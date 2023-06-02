@@ -46,6 +46,22 @@ export const projects = [
       "This app was built with AngularJS with the goal of learning the framework it is a fictitious website.",
     image: "./tea2.png",
     link: "https://teacatffe.netlify.app/",
+  },
+  {
+    title: "Pokedex",
+    subtitle: "A small PHP project consuming the PokeAPI to build a pokedex! ",
+    description:
+      "As i taught myself PHP, i decided to build this app to consume the PokeAPI, using basic PHP and Javascript.",
+    image: "./poke1.png",
+    link: "https://phpokedex.herokuapp.com/",
+  },
+  {
+    title: "Pokedex",
+    subtitle: "A small PHP project consuming the PokeAPI to build a pokedex! ",
+    description:
+      "As i taught myself PHP, i decided to build this app to consume the PokeAPI, using basic PHP and Javascript.",
+    image: "./poke2.png",
+    link: "https://phpokedex.herokuapp.com/",
   }
 ];
 
@@ -53,8 +69,8 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
+  "JavaScript, React",
+  "Learning on PHP",
   "Ruby on Rails",
   "HTML/CSS/SCSS",
   "Git/Github",
