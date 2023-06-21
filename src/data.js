@@ -53,7 +53,7 @@ export const projects = [
     description:
       "As i taught myself PHP, i decided to build this app to consume the PokeAPI, using basic PHP and Javascript.",
     image: "./poke1.png",
-    link: "https://phpokedex.herokuapp.com/",
+    link: "https://phpokedex-3708bc56aeb7.herokuapp.com/",
   },
   {
     title: "Pokedex",
@@ -61,7 +61,7 @@ export const projects = [
     description:
       "As i taught myself PHP, i decided to build this app to consume the PokeAPI, using basic PHP and Javascript.",
     image: "./poke2.png",
-    link: "https://phpokedex.herokuapp.com/",
+    link: "https://phpokedex-3708bc56aeb7.herokuapp.com/",
   }
 ];
 
